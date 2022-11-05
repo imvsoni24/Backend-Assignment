@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "cart":[
+    {
+      "id":5,
+      "title":"Vivek Soni",
+      "author": "xyz"
+    }
+  ]
+}
